@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T04:54:04.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YqOMlGUBNtnTb6A2b7oV" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T04:58:01.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ipouJ8vKYTIEwF1cXM0P" version="22.1.1" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
     <mxGraphModel dx="2625" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -25,9 +25,6 @@
         </mxCell>
         <mxCell id="2a5a01dd2e413fbf-2" value="Collaborating Subdomain" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;fontSize=24;align=center;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="740" y="720" width="450" height="391" as="geometry" />
-        </mxCell>
-        <mxCell id="2a5a01dd2e413fbf-3" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=24;align=center;strokeColor=#d79b00;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1160" width="380" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bXlGiIVCScbIo74oUakR-19" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="2a5a01dd2e413fbf-7" target="2a5a01dd2e413fbf-2">
           <mxGeometry relative="1" as="geometry">
